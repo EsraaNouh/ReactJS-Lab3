@@ -1,4 +1,6 @@
-<img src="./public/Lab 3 ReactJS.webm" width="60%" height="60%" >
+<video width="60%" height="60%" controls>
+  <source src="./public/Lab 3 ReactJS.webm" type="video/webM">
+</video>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
