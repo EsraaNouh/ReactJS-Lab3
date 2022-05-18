@@ -1,4 +1,6 @@
-<img src="./public/Lab 3 ReactJS.gif" width="60%" height="60%" >
+<p style="text-align:center;">
+<img src="./public/Lab 3 ReactJS.gif" width="60%" height="60%">
+</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
