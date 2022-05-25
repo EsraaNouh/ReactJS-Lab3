@@ -1,4 +1,4 @@
-<img src="./public/Lab3ReactJS.gif" width="60%" height="60%">
+<img src="public/Lab3ReactJS.gif" width="60%" height="60%">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
